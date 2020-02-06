@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using System.Windows.Forms;
 
 namespace Digger
@@ -59,6 +55,13 @@ namespace Digger
                     currentY = 0;
                     break;
             }
+            if (!(x + currentX >= 0 && x + currentX < Game.MapWidth &&
+                y + currentY >= 0 && y + currentY < Game.MapHeight))
+                {
+                    currentX = 0;
+                    currentY = 0;
+                }
+
             return new CreatureCommand() { DeltaX = currentX, DeltaY = currentY };
         }
 
