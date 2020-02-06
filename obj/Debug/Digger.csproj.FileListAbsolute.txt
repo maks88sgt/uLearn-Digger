@@ -1,0 +1,15 @@
+D:\uLearn\Digger\bin\Debug\Images\Digger.png
+D:\uLearn\Digger\bin\Debug\Images\Gold.png
+D:\uLearn\Digger\bin\Debug\Images\Monster.png
+D:\uLearn\Digger\bin\Debug\Images\Sack.png
+D:\uLearn\Digger\bin\Debug\Images\Terrain.png
+D:\uLearn\Digger\bin\Debug\11-digger.exe.config
+D:\uLearn\Digger\bin\Debug\11-digger.exe
+D:\uLearn\Digger\bin\Debug\11-digger.pdb
+D:\uLearn\Digger\bin\Debug\nunit.framework.dll
+D:\uLearn\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+D:\uLearn\Digger\obj\Debug\Digger.Properties.Resources.resources
+D:\uLearn\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+D:\uLearn\Digger\obj\Debug\Digger.csproj.CopyComplete
+D:\uLearn\Digger\obj\Debug\11-digger.exe
+D:\uLearn\Digger\obj\Debug\11-digger.pdb
